@@ -1,7 +1,3 @@
-# Instruction
-
-You need to create a Lyrics app to show song lyrics.
-
 # Features
 
 - User should be able to search songs based on artist name or song title words.
@@ -17,10 +13,6 @@ Endpoint to get song suggestions is not mentioned in API doc. mentioning it here
 https://api.lyrics.ovh/suggest/inputQuery
 
 `inputQuery` is path parameter. Replace `inputQuery` with actual word(ex. stairway)
-
-# Additional feature
-
-- You will get more points for writing test cases
 
 # Restrictions
 
